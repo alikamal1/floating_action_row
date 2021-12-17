@@ -4,6 +4,8 @@ version: 0.2.0
 author: Niklas Sauter <niklas.sauter@gmx.de>
 homepage: https://github.com/niklas-8/floating_action_row
 
+publish_to: none
+
 environment:
   sdk: '>=2.12.0 <3.0.0'
 
